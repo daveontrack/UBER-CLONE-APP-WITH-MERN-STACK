@@ -22,7 +22,7 @@ A full-featured Uber clone built using **React Native**, designed to replicate c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/UBER_CLONE.git
+   git clone https://github.com/daveontrack/UBER_CLONE.git
    cd UBER_CLONE
 
 - ** npm install
