@@ -25,10 +25,7 @@ A full-featured Uber clone built using **React Native**, designed to replicate c
    cd UBER_CLONE
 
 - ** npm install
-- **  # or
- - ** yarn install
-
- - **  npx expo start
+- **  npx expo start
 
 - ** Add your Google Maps API key
 
